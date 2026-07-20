@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="demo3.css">
+<body>
+    <nav>
+        <a href=""https://www.youtube.com/@madangowri"">Home</a>
+        <a href=""https://www.youtube.com/@madangowri"">About</a>
+        <a href=""https://www.youtube.com/@madangowri"">Contact</a>
+        <a href=""https://www.youtube.com/@madangowri"">List</a>
+        <a href=""https://www.youtube.com/@madangowri"">Login</a>
+
+    </nav>
+    <div>
+  <h2>Your name</h2>
+<h2>About</h2>
+<h2> contact</h2>
+<h2>List</h2>
+<h2>Log in</h2>
+    </div>
+</body>
+</html>
